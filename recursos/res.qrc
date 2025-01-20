@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>doc_search.png</file>
+    <file>search.svg</file>
+    <file>excl.png</file>
+  </qresource>
+</RCC>

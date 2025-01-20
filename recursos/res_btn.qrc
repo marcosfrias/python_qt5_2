@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix_2">
+    <file>excl.png</file>
+    <file>excel.png</file>
+  </qresource>
+</RCC>
